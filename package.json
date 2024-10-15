@@ -1,0 +1,19 @@
+{
+  "name": "url-shotner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "noedemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1",
+    "mongosh": "^2.3.2",
+    "nanoid": "^5.0.7",
+    "nodemon": "^3.1.7",
+    "shortid": "^2.2.16"
+  }
+}
